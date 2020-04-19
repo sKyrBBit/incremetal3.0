@@ -1,0 +1,8 @@
+{
+  n0 := 1 + 2 * 3
+  print n0
+  n1 := 4 > 5 && true
+  print n1
+  n2 := 6 < 7 || false
+  print n2
+}
